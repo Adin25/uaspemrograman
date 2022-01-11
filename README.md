@@ -157,17 +157,17 @@ while True:
 ### Dan berikut ini adalah hasil program ketika di jalankan
 
 - Di bawah ini hasil program ketika di jalankan dgn memasukkan perintah untuk tambah data dengan input t 
-![Gambar](ss/ss1.png)
+![Gambar](ss/ss1.jpeg)
 - Di bawah ini hasil program ketika di jalankan dgn memasukkan perintah untuk tambah data dengan input c 
-![Gambar](ss/ss2.png)
+![Gambar](ss/ss2.jpeg)
 - Di bawah ini hasil program ketika di jalankan dgn memasukkan perintah untuk tambah data dengan input t 
-![Gambar](ss/ss3.png)
+![Gambar](ss/ss3.jpeg)
 - Di bawah ini hasil program ketika di jalankan dgn memasukkan perintah untuk tambah data dengan input l 
-![Gambar](ss/ss4.png)
+![Gambar](ss/ss4.jpeg)
 - Di bawah ini hasil program ketika di jalankan dgn memasukkan perintah untuk tambah data dengan input h
-![Gambar](ss/ss5.png)
+![Gambar](ss/ss5.jpeg)
 - Di bawah ini hasil program ketika di jalankan dgn memasukkan perintah untuk tambah data dengan input l
-![Gambar](ss/ss6.png)
+![Gambar](ss/ss6.jpeg)
 - Di bawah ini hasil program ketika di jalankan dgn memasukkan perintah untuk tambah data dengan input k
-![Gambar](ss/ss7.png)
+![Gambar](ss/ss7.jpeg)
 
