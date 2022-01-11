@@ -164,11 +164,10 @@ while True:
 ![Gambar](ss/ss3.png)
 - Di bawah ini hasil program ketika di jalankan dgn memasukkan perintah untuk tambah data dengan input l 
 ![Gambar](ss/ss4.png)
-- Di bawah ini hasil program ketika di jalankan dgn memasukkan perintah untuk tambah data dengan input c 
-![Gambar](ss/ss5.png)
 - Di bawah ini hasil program ketika di jalankan dgn memasukkan perintah untuk tambah data dengan input h
+![Gambar](ss/ss5.png)
+- Di bawah ini hasil program ketika di jalankan dgn memasukkan perintah untuk tambah data dengan input l
 ![Gambar](ss/ss6.png)
-- Di bawah ini hasil program ketika di jalankan dgn memasukkan perintah untuk tambah data dengan input l 
-![Gambar](ss/ss7.png)
 - Di bawah ini hasil program ketika di jalankan dgn memasukkan perintah untuk tambah data dengan input k
-![Gambar](ss/ss8.png)
+![Gambar](ss/ss7.png)
+
